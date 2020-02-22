@@ -88,7 +88,7 @@ namespace Gala.Plugins.ElementaryAltTab
 
 			wrapper.add_child (indicator);
 			wrapper.add_child (container);
-			wrapper.add_child (caption);
+			//wrapper.add_child (caption);
 		}
 
 		public override void destroy ()
